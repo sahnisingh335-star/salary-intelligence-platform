@@ -1,0 +1,11 @@
+{
+    "average_salary": 903634.2033333334,
+    "high_performers": 262,
+    "department_salary": {
+        "Engineering": 906492.8874172185,
+        "Finance": 884309.1886792453,
+        "Hr": 901337.6071428572,
+        "Marketing": 909183.3873873873,
+        "Sales": 914117.95
+    }
+}
